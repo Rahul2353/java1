@@ -14,7 +14,7 @@ public class DuplicateElementInArray {
 		arrlist.add(15);
 		arrlist.add(22);
 		arrlist.add(30);
-		arrlist.add(40);
+		
 		arrlist.add(30);
 		// adding element 25 at third position
 		arrlist.add(2, 25);
